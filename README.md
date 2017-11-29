@@ -2,7 +2,7 @@
 
 This is a Android Client for testing Rest HTTP calls.
 
-Setup for Developers
+### Setup for Developers
 
 1.Make sure you have downloaded the latest version of Android Studio. It works
 on Linux, Windows and Mac. Download the correct version for your OS
@@ -19,7 +19,7 @@ https://github.com/YOUR_USERNAME/powerup-android.git
 
 6.Open the project with Android Studio.
 
-Configure remotes
+### Configure remotes
 
 1.When a repository is cloned, it has a default remote called origin that points
 to your fork on GitHub, not the original repository it was forked from. To keep
@@ -53,7 +53,7 @@ git merge upstream/master
 8.This will give you an exact copy of the current remote, make sure you don't
 have any local changes.
 
-Contributing and developing a feature
+### Contributing and developing a feature
 
 1.Make sure you are in the master branch git checkout master
 
