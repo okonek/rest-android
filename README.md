@@ -12,12 +12,9 @@ on Linux, Windows and Mac. Download the correct version for your OS
 3.If you are working on Windows, download Git Bash for Windows to get a full
 Unix bash with Git functionality
 
-4.Clone the repo to your desktop git clone
-https://github.com/YOUR_USERNAME/powerup-android.git
+4.Clone the forked project.
 
-5.Initialize Git. git init
-
-6.Open the project with Android Studio.
+5.Open the project with Android Studio.
 
 ### Configure remotes
 
