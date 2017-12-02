@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">Rest Android</string>
+
+    <!-- Main activity -->
+    <string name="title_main_navigation_request">Request</string>
+    <string name="title_main_navigation_history">History</string>
+
+    <!-- Current request fragment -->
+    <string name="title_request_fragment">Current request</string>
+
+    <string name="button_request_edit">Edit</string>
+
+    <string name="text_request_title">REQUEST</string>
+    <string name="text_request_url_title">URL</string>
+    <string name="text_request_url_description_none">None</string>
+    <string name="text_request_headers_title">Headers</string>
+    <string name="text_request_headers_description">%1$d pairs</string>
+    <string name="text_request_headers_description_none">0 pairs</string>
+    <string name="text_request_body_title">Body</string>
+    <string name="text_request_body_description">%1$d chars</string>
+    <string name="text_request_body_description_none">0 chars</string>
+
+    <string name="text_response_title">RESPONSE</string>
+    <string name="button_response_details">Details</string>
+
+    <!-- Edit request activity -->
+    <string name="title_edit_request">Edit request</string>
+    <string name="title_edit_request_done">Done</string>
+
+    <string name="text_edit_header">Headers</string>
+    <string name="hint_edit_header_key">Key</string>
+    <string name="hint_edit_header_value">Value</string>
+    <string name="hint_edit_body">Body</string>
+    <string name="text_edit_required_field">* Required</string>
+    <string name="text_edit_method">Method</string>
+
+    <string-array name="array_edit_request_methods">
+        <item>GET</item>
+        <item>POST</item>
+        <item>PUT</item>
+        <item>DELETE</item>
+    </string-array>
+
+    <!-- Response details activity -->
+    <string name="title_response_details">Response details</string>
+    <string name="title_response_details_info">Info</string>
+
+    <!-- History fragment -->
+    <string name="title_history_fragment">History</string>
+
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
 </resources>
